@@ -1,0 +1,12 @@
+.button__container {
+  margin-top: 200px;
+  text-align: center;
+}
+.button {
+  background-color:wheat;
+  border: none;
+  color: darkgrey;
+  font-size: 16px;
+  height: 40px;
+  width: 200px;
+}
